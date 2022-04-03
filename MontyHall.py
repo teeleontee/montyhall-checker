@@ -39,7 +39,4 @@ if __name__ == '__main__':
         main()  # the more tests we run, the more accurate the result will be
     print("if you don't change", counter_1_win / (counter_1_win + counter_1_lost))
     print("if you change      ", counter_2_win / (counter_2_win + counter_2_lost))
-    counter_1_win = 0
-    counter_2_win = 0
-    counter_1_lost = 0
-    counter_2_lost = 0
+   
